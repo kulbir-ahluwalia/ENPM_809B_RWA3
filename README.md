@@ -31,7 +31,8 @@ roslaunch ur10_moveit_config move_group.launch arm_namespace:=/ariac/arm1
 ```
 
 ## Running main node
+```
 source ~/809b/devel/setup.zsh
 rosrun ariac_manager main_node
-
+```
 
