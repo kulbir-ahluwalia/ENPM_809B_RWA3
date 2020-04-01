@@ -1,6 +1,6 @@
 # ENPM_809B_RWA3
 
-## Build Instructions
+## Build Instructions for rwa 3
 ```
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/
