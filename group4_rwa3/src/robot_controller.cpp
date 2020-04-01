@@ -1,12 +1,11 @@
 //
-// Created by zeid on 2/27/20.
+// Created by zeid on 2/27/2020.
 //
 #include "robot_controller.h"
 
 /**
  * Constructor for the robot
  * Class attributes are initialized in the constructor init list
- *
  * You can instantiate another robot by passing the correct parameter to the constructor
  */
 RobotController::RobotController(std::string arm_id) :
