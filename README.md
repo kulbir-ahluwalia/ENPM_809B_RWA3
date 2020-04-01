@@ -1,3 +1,5 @@
+# ENPM_809B_RWA3
+
 ## Build Instructions
 ```
 mkdir -p ~/catkin_ws/src
@@ -33,4 +35,3 @@ source ~/809b/devel/setup.zsh
 rosrun ariac_manager main_node
 
 
-# ENPM_809B_RWA3
